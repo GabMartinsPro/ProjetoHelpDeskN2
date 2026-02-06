@@ -12,3 +12,4 @@ C:\Users\Windows Lite BR\ProjetoHelpDeskN2\obj\Debug\net8.0\refint\ProjetoHelpDe
 C:\Users\Windows Lite BR\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.pdb
 C:\Users\Windows Lite BR\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.genruntimeconfig.cache
 C:\Users\Windows Lite BR\ProjetoHelpDeskN2\obj\Debug\net8.0\ref\ProjetoHelpDeskN2.dll
+C:\Users\Windows Lite BR\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.sourcelink.json
