@@ -13,3 +13,18 @@ C:\Users\Windows Lite BR\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.pd
 C:\Users\Windows Lite BR\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.genruntimeconfig.cache
 C:\Users\Windows Lite BR\ProjetoHelpDeskN2\obj\Debug\net8.0\ref\ProjetoHelpDeskN2.dll
 C:\Users\Windows Lite BR\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.sourcelink.json
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\bin\Debug\net8.0\ProjetoHelpDeskN2.exe
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\bin\Debug\net8.0\ProjetoHelpDeskN2.deps.json
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\bin\Debug\net8.0\ProjetoHelpDeskN2.runtimeconfig.json
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\bin\Debug\net8.0\ProjetoHelpDeskN2.dll
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\bin\Debug\net8.0\ProjetoHelpDeskN2.pdb
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.AssemblyInfoInputs.cache
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.AssemblyInfo.cs
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.csproj.CoreCompileInputs.cache
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.sourcelink.json
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.dll
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\obj\Debug\net8.0\refint\ProjetoHelpDeskN2.dll
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.pdb
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\obj\Debug\net8.0\ProjetoHelpDeskN2.genruntimeconfig.cache
+C:\Users\grautecnico\uyara\ProjetoHelpDeskN2\obj\Debug\net8.0\ref\ProjetoHelpDeskN2.dll

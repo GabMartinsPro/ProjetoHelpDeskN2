@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows Lite BR\\ProjetoHelpDeskN2\\ProjetoHelpDeskN2.csproj": {}
+    "C:\\Users\\grautecnico\\uyara\\ProjetoHelpDeskN2\\ProjetoHelpDeskN2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows Lite BR\\ProjetoHelpDeskN2\\ProjetoHelpDeskN2.csproj": {
+    "C:\\Users\\grautecnico\\uyara\\ProjetoHelpDeskN2\\ProjetoHelpDeskN2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows Lite BR\\ProjetoHelpDeskN2\\ProjetoHelpDeskN2.csproj",
+        "projectUniqueName": "C:\\Users\\grautecnico\\uyara\\ProjetoHelpDeskN2\\ProjetoHelpDeskN2.csproj",
         "projectName": "ProjetoHelpDeskN2",
-        "projectPath": "C:\\Users\\Windows Lite BR\\ProjetoHelpDeskN2\\ProjetoHelpDeskN2.csproj",
-        "packagesPath": "C:\\Users\\Windows Lite BR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows Lite BR\\ProjetoHelpDeskN2\\obj\\",
+        "projectPath": "C:\\Users\\grautecnico\\uyara\\ProjetoHelpDeskN2\\ProjetoHelpDeskN2.csproj",
+        "packagesPath": "C:\\Users\\grautecnico\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grautecnico\\uyara\\ProjetoHelpDeskN2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Windows Lite BR\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\grautecnico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +39,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +56,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.20, 8.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.20, 8.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.20, 8.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.20, 8.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
