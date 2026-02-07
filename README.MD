@@ -16,6 +16,6 @@ console > dotnet run.
 SEJA FELIZ!
 
 ## ============Integrantes do projeto==================
-Marina Andurand
+Marina Andurand,
 Gabriel Martins
-## ====================================================
+## ==================================================
